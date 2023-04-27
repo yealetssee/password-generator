@@ -219,7 +219,7 @@ label input {
 
 label input:checked {
   background-color: var(--neon-green);
-  background-image: url(/assets/images/icon-check.svg);
+  background-image: url(../assets/images/icon-check.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
